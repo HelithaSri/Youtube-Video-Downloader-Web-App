@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
-import Card from "./(component)/Card";
-import CustomInputField from "./(component)/CustomInputField";
+import Card from "./(components)/Card";
+import CustomInputField from "./(components)/CustomInputField";
 import { TypeAnimation } from "react-type-animation";
 
 export default function Home() {
